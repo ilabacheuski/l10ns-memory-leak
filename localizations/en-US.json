@@ -1,0 +1,24 @@
+[
+  {
+    "files": [
+      "test.js"
+    ],
+    "id": "gEEnnoX9HX",
+    "key": "SIGN_UP__FIRSTNAME",
+    "new": true,
+    "timestamp": "2017-11-16T05:35:08.586Z",
+    "value": "Firstname",
+    "variables": []
+  },
+  {
+    "files": [
+      "test.js"
+    ],
+    "id": "677nnoyECj",
+    "key": "SIGN_UP__LASTNAME",
+    "new": true,
+    "timestamp": "2017-11-16T05:35:08.586Z",
+    "value": "error} in the {template}",
+    "variables": []
+  }
+]
